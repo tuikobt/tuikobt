@@ -1,4 +1,4 @@
-# 💫About Me : tuikobt
+# 💫About Me : tuikobt (Minh Phương Lee)
 ### 👋 Hi there! Welcome to my profile
 
 - 🎤 I’m currently working on **React Native mobile apps**
